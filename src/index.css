@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'ClickBartar-Light';
+    src: url(Font/ClickBartar-Light.ttf);
+}
+@font-face {
+    font-family: 'ClickBartar-Bold';
+    src: url(Font/ClickBartar-Bold.ttf);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --light-font: 'ClickBartar-Light';
+    --Bold-font: 'ClickBartar-Bold'
+}
+
