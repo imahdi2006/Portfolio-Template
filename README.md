@@ -37,22 +37,16 @@ Before running the project, make sure you have the following installed:
    git clone https://github.com/imahdi2006/Portfolio-Template.git
 Navigate into the project directory:
 
-bash
-Copy
-Edit
+Navigate to the project directory:
 cd Portfolio-Template
 Install dependencies:
 
-bash
-Copy
-Edit
+Install the dependencies:
 npm install
 Run the Development Server
 To start the development server, use the following command:
 
-bash
-Copy
-Edit
+Start the development server:
 npm start
 This will open the app in your default browser at http://localhost:3000.
 
